@@ -29,8 +29,8 @@ section {
       font-weight: 700;
 
       & img {
-        height: 30px;
-        width: 30px;
+        height: 2.5rem;
+        width: 2.5rem;
         padding: auto;
         margin-left: 10px;
       }
